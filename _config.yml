@@ -2,7 +2,7 @@ title: ANTI-SYMPOSIUM
 description: # this means to ignore newlines until "baseurl:"
   The International Encounters of Community and Environmental Sociology (IECES) it’s an annual gathering that serves as a meeting place for the exchange of experiences of the participants with the local community where the objective is to discuss the future of independent cultural frameworks.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "https://elastic-heisenberg-e266c2.netlify.com/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
